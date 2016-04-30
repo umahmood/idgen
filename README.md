@@ -1,6 +1,6 @@
 # IDGen
 
-IDGen is a Go library which generate unique IDs.
+IDGen is a Go library which generates unique IDs.
 
 # Installation
 
